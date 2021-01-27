@@ -36,11 +36,14 @@ python client.py 192.168.55.13 8081
 ## Output
 
 In the picture given below, a server has been initialized on the left side of the terminal and a client script on the right side of the terminal. (Splitting of terminal done using tmux, ‘sudo apt-get install tmux’). For initialization purposes, you can see that whenever a message is sent by a user, the message along with IP address is shown on the server side.
-<br>
+<br><br>
 ![Chat1](https://user-images.githubusercontent.com/34357926/106038383-e6cb2f00-60fd-11eb-99f5-feef1b3e7bdf.png)
-
+<br>
 The below picture has a basic conversation between two people on the same server. Multiple clients can connect to the server in the same way!><br>
-
+<br>
 ![Chat2](https://user-images.githubusercontent.com/34357926/106038386-e894f280-60fd-11eb-868f-94af8efd5f85.png)
+<br>
 
 ## Thank You
+
+Thanks Reader, that's nice of you to come here. I appreciate the support.
